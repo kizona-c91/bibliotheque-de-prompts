@@ -70,3 +70,9 @@ Chaque fichier de prompt commence par un en-tête YAML : `id`, `titre`, `categor
 4. Ajoute une ligne dans l'index de ce README.
 
 Pour modifier un prompt existant, augmente le champ `version` de son en-tête et décris le changement dans le message de commit.
+
+## Licence
+
+© 2026 Kizona Chy. Contenu publié sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+
+Tu peux copier, modifier et réutiliser ces prompts, y compris à des fins commerciales, à condition de citer l'auteur et d'indiquer si des modifications ont été faites. Exemple de mention : « D'après la Bibliothèque de prompts de Kizona Chy, CC BY 4.0 ».
